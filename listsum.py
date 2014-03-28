@@ -22,3 +22,5 @@ def listsumR(list):
         
 
 print (listsumR((2,3,3,4,5)))
+
+x = raw_input('presiona enter')
